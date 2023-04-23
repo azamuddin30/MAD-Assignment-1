@@ -9,6 +9,17 @@
 3. Aligned to center mainAxisAlignment argument in column widget.
 4. Add Asset (image) by updating pubspec.yaml.
 
+# Difference from others
+
+1. I am not sure where the differences as I have not refer any of my classmates's works but i used paddings and different widgets such as Inkwell and clipOval.
+
+# Screenshots
+
+1. Before inputting any inputs
+   ![first image](./screenshot-1.jpg)
+2. After inputting name, age, picture
+   ![second image](./screenshot-2.jpg)
+
 # Assignment: Simple Profile Page
 
 Objective: Create a simple Flutter application that allows the user to enter their name, age, and upload a profile picture. The application should display the entered information on the same screen after the user presses a "Submit" button. Note that the code main.dart have been partially provided for you. Your job is too build the widget tree to create the following requirements.
